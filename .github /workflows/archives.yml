@@ -1,0 +1,16 @@
+name: archives_build
+on: [workflow_dispatch]
+
+jobs:
+  build-pygbag:
+    name: Build for Emscripten archives runtime
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout 
+      uses: actions/checkout@v2
+    - name : "Upload to GitHub pages branch gh-pages"
+      uses: JamesIves/github-pages-deploy-action@4.1.7
+      with:
+        branch: gh-pages
+#         folder: repo/pkg
