@@ -132,6 +132,7 @@
     "typing_extensions": "pkg/typing_extensions-4.2.0-py3-none-any.whl",
     "uncertainties": "pkg/uncertainties-3.1.7-py2.py3-none-any.whl",
     "unyt": "pkg/unyt-2.8.0-py2.py3-none-any.whl",
+    "urllib3": "pkg/urllib3-2.0.2-py3-none-any.whl",
     "wasabigeom": "pkg/wasabi_geom-2.1.1-<abi>-<abi>-wasm32_mvp_emscripten.whl",
     "wcwidth": "pkg/cwcwidth-0.1.8-<abi>-<abi>-wasm32_mvp_emscripten.whl",
     "webencodings": "pkg/webencodings-0.5.1-py2.py3-none-any.whl",
