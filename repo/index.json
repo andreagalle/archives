@@ -73,6 +73,7 @@
     "numpy": "pkg/numpy-1.22.4-<abi>-<abi>-wasm32_mvp_emscripten.whl",
     "nurses_2": "pkg/nurses_2-0.18.5-py3-none-any.whl",
     "optlang": "pkg/optlang-1.5.2-py2.py3-none-any.whl",
+    "OpenGL": "pkg/PyOpenGL-3.1.7-py3-none-any.whl",
     "packaging": "pkg/packaging-21.3-py3-none-any.whl",
     "panda3d": "pkg/panda3d-1.11.0-<abi>-<abi>-wasm32_mvp_emscripten.whl",
     "panda3d_tools": "pkg/panda3d-1.11.0-<abi>-<abi>-wasm32_mvp_emscripten.whl",
